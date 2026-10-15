@@ -1,7 +1,7 @@
 # titanic-survival-prediction
 The model predicts whether a person survived on the Titanic or not.
 ## Data
-Ссылка: https://www.kaggle.com/datasets/yasserh/titanic-dataset
+Link: https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ## What's done
 - I cleaned the source dataset of unnecessary columns (features), built graphs showing survival, depending on different features.

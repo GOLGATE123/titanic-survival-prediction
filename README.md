@@ -4,6 +4,6 @@ The model predicts whether a person survived on the Titanic or not.
 Ссылка: https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ## Что сделано
-- очистил исходный датасет от ненужных столбцов(признаков), построил графики показывающие выживаемость, в зависимости от разных признаков.
-- обучил нейронную сеть из пяти слоёв relu и последнего с sigmoid. (наверное слишком сложная модель для такой задачи, но это в любом случае для тренировки.)
-- получил точность 78% на тестовой выборке
+- I cleaned the source dataset of unnecessary columns (features), built graphs showing survival, depending on different features.
+- I trained a neural network of five relu layers and the last one with sigmoid. (the model is probably too complicated for such a task, but it's for training anyway.)
+- I got an accuracy of 78% on the test sample. (of course it can be better)
